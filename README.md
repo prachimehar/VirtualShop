@@ -32,20 +32,22 @@
 ## 🔨 Installation & Setup
 
 ### 1. Clone the Repository
-
 git clone https://github.com/prachimehar/VirtualShop
+
 cd VirtualShop
 
 
 ### 2. Setup Backend
-
 cd backend
+
 npm install
 
 
 ### 3. Create a .env file:
 PORT=5000
+
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret
 
 
@@ -55,6 +57,7 @@ npm start
 
 ### 5. Setup Frontend:
 cd myapp
+
 npm install
 
 
